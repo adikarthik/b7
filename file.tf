@@ -1,6 +1,6 @@
 resource "local_file" "abc_number" {
   filename = "abc.txt"
-  content a = "abd"
+  content  = "abd"
 
 
 }
